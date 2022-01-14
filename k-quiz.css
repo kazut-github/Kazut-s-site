@@ -1,0 +1,72 @@
+
+/* ヘッダー */
+header {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(34, 49, 52, 0.9);
+    position :fixed;
+    top: 0;
+    z-index: 10;
+  }
+  .logo {
+    color: rgb(230,230,64);
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: sabs-serif;
+    padding-top: 13px;
+    letter-spacing: initial;
+  }
+  .logo span {
+    font-size: xx-large;
+    color: violet;
+    margin-left: 250px;
+  }
+  .header-left {
+    float: left;
+  }
+  /* コンテンツ */
+  /* .game-wrapper {
+  } */
+  .game-wrapper h2{
+    margin-top: 100px;
+    margin-left: 20px;
+    font-family: monospace;
+  }
+  .game-wrapper p{
+    padding-left: 5px;
+    margin-top: 20px;
+    margin-bottom: 1rem;
+    margin-left: 480px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: initial;
+   /*  margin-right: 560px; */
+    /* text-align: center; */
+    /* border: 1rem solid rgb(35, 29, 131); */
+    /* border: 4mm ridge #2196f3; */
+  }
+
+  /* ボタン */
+  
+   /* フッター */
+   .footer-logo {
+    color: black;
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  
+  footer p {
+    color: rgb(168, 31, 31);
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 15px;
+    /* font-family: system-ui; */
+  }
+  
+  footer {
+    padding-top: 45px;
+    padding-bottom: 20px;
+    font-family: sabs-serif;
+    text-align: center;
+  }
